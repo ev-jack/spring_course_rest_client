@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9011393-7e15-4f15-80f0-9890969c8eba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevhen/spring/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevhen/spring/rest/Communication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevhen/spring/rest/configuration/MyConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevhen/spring/rest/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/yevhen/spring/rest/AppTest.java" afterDir="false" />
+    <list default="true" id="c9011393-7e15-4f15-80f0-9890969c8eba" name="Changes" comment="added gets methods">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yevhen/spring/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yevhen/spring/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yevhen/spring/rest/Communication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yevhen/spring/rest/Communication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,11 +87,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679163904411</updated>
-      <workItem from="1679163905754" duration="1644000" />
+      <workItem from="1679163905754" duration="3446000" />
     </task>
+    <task id="LOCAL-00001" summary="added gets methods">
+      <created>1679165681513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679165681513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added gets methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="added gets methods" />
   </component>
 </project>

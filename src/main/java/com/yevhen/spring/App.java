@@ -15,12 +15,20 @@ public class App {
 
         Communication communication = context.getBean("communication",
                 Communication.class);
+//
+//        List<Employee> allEmployees = communication.getAllEmployees();
+//        System.out.println(allEmployees);
+//
+//        Employee empByID = communication.getEmployee(5);
+//        System.out.println(empByID);
+//
+//        Employee emp = new Employee("Sveta", "Sokolova",
+//                "IT", 1200);
+//
+//        emp.setId(16);
+//        communication.saveEmployee(emp);
 
-        List<Employee> allEmployees = communication.getAllEmployees();
-        System.out.println(allEmployees);
-
-        Employee empByID = communication.getEmployee(5);
-        System.out.println(empByID);
+//        communication.deleteEmployee(16);
 
     }
 }
